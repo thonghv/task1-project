@@ -1,10 +1,10 @@
-# Project Name: [Tên project của bạn]
+# Project Name: Online Food Ordering Website
 
 ## Description
-This project is about [mô tả ngắn project].
+This project is a web application for users to browse menus, place food orders, and make payments online.
 
 ## Author
-[Your Name]
+Nguyen Van A
 
 ## Repository
 This is the public GitHub repository for Task 1.
